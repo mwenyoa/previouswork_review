@@ -1,0 +1,43 @@
+
+
+body{
+    margin: 0%;
+    width: auto;
+}
+#main{
+    background-color:rgb(216, 211, 211);
+    padding-left: 15px;
+    padding-right: 15px;
+  margin-top:10px;
+  width: auto;
+}
+#title{
+    text-align: center;
+    padding: 30px;
+}
+
+#img-div > #image{
+    width: 100%;
+    height: auto; 
+    margin-left: 100px;
+    margin-right: 100px;
+   position: relative;
+   display: inline-block;
+   overflow: hidden;
+   max-width:1000px;
+}
+
+#img-div{
+    background-color:white;
+}
+
+#img-div > #img-caption{
+    text-align: center;
+    padding: 10px;
+}
+
+
+#main > #center-history{
+    margin-left: 200px;
+    margin-right: 200px;
+}
